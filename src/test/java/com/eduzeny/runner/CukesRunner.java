@@ -27,7 +27,7 @@ import org.junit.runner.RunWith;
         //tags = "@wikipedia"
         //tags = "@wiptableorder"
         //tags = "@bear1"
-        tags = "@wip" //working in progress   //@regression, @smoke
+        tags = "@google" //working in progress   //@regression, @smoke
 
 
 )
