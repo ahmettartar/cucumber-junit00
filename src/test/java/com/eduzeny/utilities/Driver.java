@@ -31,7 +31,7 @@ public class Driver {
 
         // it will check if driver is null and if it is we will set up browser inside if statement
         // if you already setup driver and using it again for following line of codes, it will return to same driver
-        if (driverPool.get() == null) { //(driver == null)
+        if (driverPool.get() == null) { //     (driver == null)
 
             // We read browserType from configuration.properties with
             // help of ConfigurationReader class' getProperty() method
